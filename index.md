@@ -9,4 +9,4 @@ This is a repository of documentation for applications created, hosted, or maint
 ## Links
 
 - [Tampay Bay Coders](https://www.tampabaycoders.com)
-- [Indasys LLC](https://www.indasysllc.com)
+- [Indasys LLC](http://www.indasysllc.com)
