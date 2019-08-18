@@ -1,8 +1,7 @@
 ---
 layout: project
 project: Quick-Metric&trade;
-title: 
-description: The quickest and easiest way to get a metric value from an imperial value.
+project_description: The quickest and easiest way to get a metric value from an imperial value.
 ---
 
 # About

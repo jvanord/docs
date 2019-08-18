@@ -1,8 +1,7 @@
 ---
 layout: project
 project: Quick-Metric&trade;
-title: Terms and Conditions
-description:
+project_description: The quickest and easiest way to get a metric value from an imperial value.
 ---
 
 # Terms and Conditions
