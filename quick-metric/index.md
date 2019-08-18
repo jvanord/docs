@@ -1,3 +1,10 @@
+---
+layout: project
+project: Quick-Metric&trade;
+title: 
+description: The quickest and easiest way to get a metric value from an imperial value.
+---
+
 # About
 
 Quick-Metric&trade; is a simple conversion utility that lets you get a quick metric conversion

@@ -1,3 +1,10 @@
+---
+layout: project
+project: Quick-Metric&trade;
+title: Terms and Conditions
+description:
+---
+
 # Terms and Conditions
 
 ## Definitions
