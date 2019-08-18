@@ -1,7 +1,8 @@
 ---
 layout: project
-title: Privacy Policy
 project: Quick-Metric&trade;
+title: Privacy Policy
+description: The quickest and easiest way to get a metric value from an imperial value.
 ---
 
 # Privacy Policy
