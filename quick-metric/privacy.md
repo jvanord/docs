@@ -1,3 +1,8 @@
+---
+layout: project
+title: Test
+---
+
 # Privacy Policy
 
 ## Definitions
