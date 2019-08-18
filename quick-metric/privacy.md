@@ -1,6 +1,7 @@
 ---
 layout: project
-title: Test
+title: Privacy Policy
+project: Quick-Metric&trade;
 ---
 
 # Privacy Policy
