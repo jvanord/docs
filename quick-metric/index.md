@@ -11,17 +11,17 @@ for common imperial values.
 
 ## Screenshots
 
-![Simulator Screen Shot - iPhone Xs Max](https://raw.githubusercontent.com/jvanord/metric-converter/master/screenshots/ios/Simulator%20Screen%20Shot%20-%20iPhone%20Xs%20Max%20-%202019-08-21%20at%2016.38.23.png){:height="150px"}
-![Simulator Screen Shot - iPhone Xs Max](https://raw.githubusercontent.com/jvanord/metric-converter/master/screenshots/ios/Simulator%20Screen%20Shot%20-%20iPhone%20Xs%20Max%20-%202019-08-21%20at%2016.38.26.png){:height="150px"}
-![Simulator Screen Shot - iPhone Xs Max](https://raw.githubusercontent.com/jvanord/metric-converter/master/screenshots/ios/Simulator%20Screen%20Shot%20-%20iPhone%20Xs%20Max%20-%202019-08-21%20at%2016.38.45.png){:height="150px"}
+<img src="https://raw.githubusercontent.com/jvanord/metric-converter/master/screenshots/ios/Simulator%20Screen%20Shot%20-%20iPhone%20Xs%20Max%20-%202019-08-21%20at%2016.38.23.png" alt="Simulator Screen Shot - iPhone Xs Max" height="250" />
+<img src="https://raw.githubusercontent.com/jvanord/metric-converter/master/screenshots/ios/Simulator%20Screen%20Shot%20-%20iPhone%20Xs%20Max%20-%202019-08-21%20at%2016.38.26.png" alt="Simulator Screen Shot - iPhone Xs Max" height="250" />
+<img src="https://raw.githubusercontent.com/jvanord/metric-converter/master/screenshots/ios/Simulator%20Screen%20Shot%20-%20iPhone%20Xs%20Max%20-%202019-08-21%20at%2016.38.45.png" alt="Simulator Screen Shot - iPhone Xs Max" height="250" />
 
-![Simulator Screen Shot - iPad Pro (12.9-inch) (3rd generation)](https://raw.githubusercontent.com/jvanord/metric-converter/master/screenshots/ios/Simulator%20Screen%20Shot%20-%20iPad%20Pro%20(12.9-inch)%20(3rd%20generation){:height="150px"}%20-%202019-08-21%20at%2017.22.13.png)
-![Simulator Screen Shot - iPad Pro (12.9-inch) (3rd generation)](https://raw.githubusercontent.com/jvanord/metric-converter/master/screenshots/ios/Simulator%20Screen%20Shot%20-%20iPad%20Pro%20(12.9-inch)%20(3rd%20generation){:height="150px"}%20-%202019-08-21%20at%2017.22.18.png)
-![Simulator Screen Shot - iPad Pro (12.9-inch) (3rd generation)](https://raw.githubusercontent.com/jvanord/metric-converter/master/screenshots/ios/Simulator%20Screen%20Shot%20-%20iPad%20Pro%20(12.9-inch)%20(3rd%20generation){:height="150px"}%20-%202019-08-21%20at%2017.22.24.png)
+<img src="https://raw.githubusercontent.com/jvanord/metric-converter/master/screenshots/ios/Simulator%20Screen%20Shot%20-%20iPad%20Pro%20(12.9-inch)%20(3rd%20generation)%20-%202019-08-21%20at%2017.22.13.png" alt="Simulator Screen Shot - iPad Pro (12.9-inch) (3rd generation)" height="250" />
+<img src="https://raw.githubusercontent.com/jvanord/metric-converter/master/screenshots/ios/Simulator%20Screen%20Shot%20-%20iPad%20Pro%20(12.9-inch)%20(3rd%20generation)%20-%202019-08-21%20at%2017.22.18.png" alt="Simulator Screen Shot - iPad Pro (12.9-inch) (3rd generation)" height="250" />
+<img src="https://raw.githubusercontent.com/jvanord/metric-converter/master/screenshots/ios/Simulator%20Screen%20Shot%20-%20iPad%20Pro%20(12.9-inch)%20(3rd%20generation)%20-%202019-08-21%20at%2017.22.24.png" alt="Simulator Screen Shot - iPad Pro (12.9-inch) (3rd generation)" height="250" />
 
-![Android Screenshot](https://raw.githubusercontent.com/jvanord/metric-converter/master/screenshots/pixel/Screenshot_1566417660.png){:height="150px"}
-![Android Screenshot](https://raw.githubusercontent.com/jvanord/metric-converter/master/screenshots/pixel/Screenshot_1566417666.png){:height="150px"}
-![Android Screenshot](https://raw.githubusercontent.com/jvanord/metric-converter/master/screenshots/pixel/Screenshot_1566417679.png){:height="150px"}
+<img src="https://raw.githubusercontent.com/jvanord/metric-converter/master/screenshots/pixel/Screenshot_1566417660.png" alt="Android Screenshot" height="250" />
+<img src="https://raw.githubusercontent.com/jvanord/metric-converter/master/screenshots/pixel/Screenshot_1566417666.png" alt="Android Screenshot" height="250" />
+<img src="https://raw.githubusercontent.com/jvanord/metric-converter/master/screenshots/pixel/Screenshot_1566417679.png" alt="Android Screenshot" height="250" />
 
 ## Available
 
