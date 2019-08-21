@@ -29,7 +29,7 @@ On the Apple App Store&reg; and coming soon to the Google Play Store&reg;.
 
 ## Support
 
-Find company contact information on the web at [Tampa Bay Coders](https://www.tampabaycoders.com) or contact support at support@tampabaycoders.com.
+Find company contact information on the web at [Tampa Bay Coders](https://www.tampabaycoders.com) or contact support at <support@tampabaycoders.com>.
 
 ## Terms
 
